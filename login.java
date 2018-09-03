@@ -3,5 +3,6 @@ class A {
      System.out.println("Hello World");
      System.out.println("Cape Demo");
      System.out.println("Welcome!!");
+     System.out.println("Welcome!!");
  }
 }
